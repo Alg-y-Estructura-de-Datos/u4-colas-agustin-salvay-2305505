@@ -6,3 +6,11 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(Ej1 Ej1.cpp)
 add_executable(Ej2 Ej2.cpp)
 add_executable(Ej3 Ej3.cpp)
+add_executable(Ej4 Ej4.cpp
+        Ej4.cpp)
+add_executable(Ej5 Ej5.cpp
+        Ej5.cpp)
+add_executable(Ej6 Ej6.cpp
+        Ej6.cpp)
+add_executable(Ej7 Ej7.cpp
+        Ej7.cpp)
